@@ -1,0 +1,148 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="521px" height="261px" viewBox="-0.5 -0.5 521 261" content="&lt;mxfile&gt;&lt;diagram id=&quot;lfRxtbX1G38fmVx9aiFI&quot; name=&quot;Page-1&quot;&gt;3VfbctsgEP0aP7YjS/Elj4kdp51Jk3acmaZPGSxWEhMMKkK23K/vgtAtshM3l8lMXyT2sMDu4SxCg2C2Li4VSZNvkgIf+B4tBsF84PtDfzrGl0F2JTKanpRArBh1Tg2wZH/AgZ5Dc0Yh6zhqKblmaRcMpRAQ6g5GlJLbrlskeXfVlMTQA5Yh4X30J6M6KdHpyGvwL8DipFp56LmeNamcHZAlhMptCwouBsFMSanL1rqYATfkVbyU4xYHeuvAFAh9zADH+4bwvJtbpndVtkAxeWcKKfB1nug1R2uIzUwr+QAzyaWy7kEQnJ4ucL1zDEHt7hD0KuOXMT6PKnNetDvnu7b1HRRbgwblwH5iVaAyV6GL1HdaICoG5zUpIZNDa5gj4xIkrqF26KCAE802XRKI00lc+zVUYsOxuZ9Zv8fs3fXZbY9cJXNBgToytwnTsEyJTWiLxXMs1wfp2YDSUDyZuuutJOlqcjh19rZR+LDySVrqHnuvJ2vcI8t/OxkWTN85L9NuiRCtRoPG2LWMFylw0lfg6KMUOOqRem5avneuCBP4voYiz3o8P6PBrmDfVZEnHynJSY+95Y8rZKbHFx7hqWmGO86QGRU8X8erksOrVQ2Q8CG2zN7kGqeBit7y0zccvXvxjx5RPelTPd7D9PQNmD7tMT0nmpjvspJrfJXnpscyU0WFViTUqD9cU5gnl4RaU0vzSIzAq53yKE60Ihl8Hvhjrg3RCluxtqQdQijbdHZ4/DuXrr9pdUZkKRF7hzT7+iksN+7MZCKYZoTvnfLWJpCFiqU6swkRbTYXVCTV2gKWiExDam8zYCfEhzDVfA8aqV1kKrzX8p5u3e0GVM2A6bXhdlNA2OZdoY9EjjLSTx247kCOGOePIMJZLNDkEJkZjCQZ3qTOHKxleqBemoOmOX17gt4j+2M/cLWeWxL3gz0ar29vrxF5dXVtqfxGhFBLlpaSt3trtxM1/NVoeGYAI4HQagy9zWsFPenvO9yP0v0Ct6tWGCmDUkAyKbJyeSn4rg5UAIpqkacYsF27HXg3IPd58WiumIhN8ZIwMXPnwiaJEibGWUaGW6PU3FKmIFKQJUfFvqwLJbJZdKujpMxyFRk1VdzSrakO4eKrC+Q/1HwwfKnoJ/8uejSbPxfb1/r/Cy7+Ag==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 120 40 L 223.63 40" fill="none" stroke="#3399ff" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 228.88 40 L 221.88 43.5 L 223.63 40 L 221.88 36.5 Z" fill="#3399ff" stroke="#3399ff" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 40px; margin-left: 175px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                1
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="175" y="43" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    1
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="10" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="#3399ff" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 40px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                XNAT
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="60" y="44" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    XNAT
+                </text>
+            </switch>
+        </g>
+        <path d="M 290 40 L 393.63 40" fill="none" stroke="#3399ff" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 398.88 40 L 391.88 43.5 L 393.63 40 L 391.88 36.5 Z" fill="#3399ff" stroke="#3399ff" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 40px; margin-left: 345px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                2
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="345" y="43" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+        <rect x="400" y="10" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="#3399ff" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 40px; margin-left: 401px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Blue Brain Nexus
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="460" y="44" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Blue Brain Nexus
+                </text>
+            </switch>
+        </g>
+        <path d="M 230 15 C 230 6.72 243.43 0 260 0 C 267.96 0 275.59 1.58 281.21 4.39 C 286.84 7.21 290 11.02 290 15 L 290 65 C 290 73.28 276.57 80 260 80 C 243.43 80 230 73.28 230 65 Z" fill="rgb(255, 255, 255)" stroke="#3399ff" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 290 15 C 290 23.28 276.57 30 260 30 C 243.43 30 230 23.28 230 15" fill="none" stroke="#3399ff" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 53px; margin-left: 231px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                SQLite
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="260" y="56" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    SQLite
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="90" width="230" height="100" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 97px; margin-left: 2px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Data from XNAT is extracted and loaded to the SQLite database.
+                                <br/>
+                                <br/>
+                                <div style="">
+                                    <span style="background-color: initial;">
+                                        The scripts that perform this step are in nexus_etl/src_to_dw folder.
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2" y="109" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Data from XNAT is extracted and loaded...
+                </text>
+            </switch>
+        </g>
+        <rect x="290" y="90" width="230" height="170" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 97px; margin-left: 292px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Once the data is in SQLIte, it can then be loaded to Blue Brain Nexus.
+                                <br/>
+                                <br/>
+                                For performance reasons, only the new/updated data is loaded to Nexus during each run instead of a full refresh.
+                                <br/>
+                                <br/>
+                                Scripts for this step can be found in dw_to_nexus folder.
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="292" y="109" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Once the data is in SQLIte, it can the...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

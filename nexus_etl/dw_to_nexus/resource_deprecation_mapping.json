@@ -1,0 +1,59 @@
+[
+    {
+        "postgres_table_name": "research_study",
+        "postgres_uri_field_name": "research_study_uri",
+        "nexus_resource_type": "fhir:ResearchStudy"
+    },
+    {
+        "postgres_table_name": "acquisition",
+        "postgres_uri_field_name": "acquisition_uri",
+        "nexus_resource_type": "nidm:Acquisition"
+    },
+    {
+        "postgres_table_name": "acquisition_object",
+        "postgres_uri_field_name": "acquisition_object_uri",
+        "nexus_resource_type": "nidm:AcquisitionObject"
+    },
+    {
+        "postgres_table_name": "device",
+        "postgres_uri_field_name": "device_uri",
+        "nexus_resource_type": "fhir:Device"
+    },
+    {
+        "postgres_table_name": "questionnaire",
+        "postgres_uri_field_name": "questionnaire_item_answer_option_uri",
+        "nexus_resource_type": "ItemAnswerOption",
+        "nexus_resource_type_regex": true
+    },
+    {
+        "postgres_table_name": "questionnaire_item_list",
+        "postgres_uri_field_name": "questionnaire_item_uri",
+        "nexus_resource_type": "sdo:Question"
+    },
+    {
+        "postgres_table_name": "questionnaire_list",
+        "postgres_uri_field_name": "questionnaire_uri",
+        "nexus_resource_type": "fhir:Questionnaire"
+    },
+    {
+        "postgres_table_name": "questionnaire_response",
+        "postgres_uri_field_name": "questionnaire_response_item_uri",
+        "nexus_resource_type": "QuestionnaireResponseItemComponent",
+        "nexus_resource_type_regex": true
+    },
+    {
+        "postgres_table_name": "questionnaire_response_list",
+        "postgres_uri_field_name": "questionnaire_response_uri",
+        "nexus_resource_type": "fhir:QuestionnaireResponse"
+    },
+    {
+        "postgres_table_name": "research_subject",
+        "postgres_uri_field_name": "research_subject_uri",
+        "nexus_resource_type": "fhir:ResearchSubject"
+    },
+    {
+        "postgres_table_name": "session",
+        "postgres_uri_field_name": "session_uri",
+        "nexus_resource_type": "nidm:Session"
+    }
+]

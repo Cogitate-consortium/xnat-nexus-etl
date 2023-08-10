@@ -1,0 +1,20 @@
+# server-specific variables
+server:
+  common_utils_path: 
+    - !join [*BASE, common]
+    - !join [*BASE, common/utils]
+    - !join [*BASE, common/src_to_dw]
+    - !join [*BASE, common/dw_dataclasses]
+  log_dir: !join [*BASE, logs]
+
+nexus:
+  #Update the following two - they refer to the Blue Brain Nexus organization and project
+  # that you want the data to be loaded into
+  org: &NEXUSORG MPI
+  project: &NEXUSPROJ ELN
+
+  deployment: *RESEARCH_DEPLOYMENT
+  uri_base: !join [*RESEARCH_DEPLOYMENT, /, !replace [*NEXUSORG, NEXUS_ORG, !replace [*NEXUSPROJ, NEXUS_PROJECT, resources/NEXUS_ORG/NEXUS_PROJECT/_/]]]
+  token_file: !join [*BASE, sensitive/nexus_token.txt]
+  uri_salt: *NEXUS_URI_SALT
+  uri_salt_delimiter: *NEXUS_URI_SALT_DELIMITER

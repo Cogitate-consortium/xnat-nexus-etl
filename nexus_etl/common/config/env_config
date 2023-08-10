@@ -1,0 +1,7 @@
+server:
+  # make sure to add the forward-slash at the end
+  root: &BASE ~/eln/nexus_etl/
+nexus:
+  deployment: &RESEARCH_DEPLOYMENT http://localhost/v1
+  uri_salt: &NEXUS_URI_SALT 'ReplaceMeWithABetterRandomSaltString'
+  uri_salt_delimiter: &NEXUS_URI_SALT_DELIMITER '||&||~||'
