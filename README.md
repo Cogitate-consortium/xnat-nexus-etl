@@ -36,5 +36,10 @@ This section outlines the steps needed to run the ETL flow in your own environme
 
 6. Given the data has been loaded, various queries may be run using the Jupyter notebooks provided under sample_query_notebooks.
 
+## Repository Contributors
+- [Adeel Ansari](https://github.com/adeel-ansari)
+- [Mohana Ramaratnam](https://github.com/mohanakannan9)
+- [Praveen Sripad](https://github.com/pravsripad)
+
 ## Acknowledgements
 This project was made possible through the support of a grant from Templeton World Charity Foundation, Inc. The tool has been developed as a part of the [ARC-COGITATE](https://www.arc-cogitate.com/) project.
