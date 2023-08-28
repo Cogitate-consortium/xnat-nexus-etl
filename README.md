@@ -4,7 +4,7 @@ This folder contains scripts for loading data from [XNAT](https://www.xnat.org/)
 We demonstrate here how to load the data on to a local instance of NEXUS, but this can easily be extended to a cloud instance.
 
 ## Data Flow
-![dataflowimage](./dataflow.drawio.svg)
+![dataflowimage](./assets/dataflow.drawio.svg)
 
 ## Installation
 This section outlines the steps needed to run the ETL flow in your own environment. A makefile is provided to run many of the steps in a flexible manner.
